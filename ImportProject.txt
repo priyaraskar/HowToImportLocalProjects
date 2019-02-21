@@ -1,0 +1,19 @@
+STEP 1: Open command prompt and navigate to project folder
+        cd C:\Priya\Learnings\JQueryAnimation
+
+STEP 2: Initiate git in your project folder
+        git init
+
+STEP 3: git add .
+STEP 4: git commit -m "Firs Commit"
+
+STEP 5: If not logged in :
+        git config --global user.email "priyaraskar@gmail.com"
+        git config --global user.name "priyaraskar"
+
+        And provide the password in opened window
+
+STEP 6: Copy git repository path and use following command
+        git remote add origin https://github.com/priyaraskar/JSFiddle.git
+
+STEP 7: git push -u origin master
